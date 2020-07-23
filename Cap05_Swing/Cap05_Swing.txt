@@ -1,0 +1,3 @@
+CAPÍTULO 5 - APLICAÇÃO DE COMPONENTES SWING
+================================================
+O capítulo 5 continua a construção de aplicações GUI mostrando a aplicação dos vários componentes Swing, os gerenciadores de layout e o modelo de eventos do Java, o que é essencial para aplicações de desktop.
