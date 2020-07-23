@@ -1,0 +1,3 @@
+CAPÍTULO 8 - STREAMS
+====================
+O capítulo 8 discute os streams e sua aplicação na criação e no uso de arquivos e troca de dados.
