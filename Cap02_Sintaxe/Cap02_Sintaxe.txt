@@ -1,0 +1,3 @@
+CAPÍTULO 2 - SINTAXE
+====================
+O Capítulo 2 contém um resumo da estrutura e sintaxe da linguagem Java, o que inclui tipos de dados, operadores, expressões, diretivas, entrada/saída básicas.
