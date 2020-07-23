@@ -1,0 +1,3 @@
+CAPÍTULO 6 - COLEÇÕES
+=====================
+O Capítulo 6 apresenta a importante API (Application Programming Interface) das Coleções.
