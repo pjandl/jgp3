@@ -1,0 +1,3 @@
+CAPÍTULO 10 - Networking
+========================
+O capítulo 10 diz respeito ao uso de sockets e datagramas, que permitem a comunicação e troca de dados em redes.
