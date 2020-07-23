@@ -1,0 +1,3 @@
+CAPÍTULO 4 - CONSTRUÇÃO DE APLICATIVOS GUI SWING
+================================================
+O capítulo 4 mostra a construção de aplicações GUI (Graphical User Interface) utilizando os componentes Swing, os gerenciadores de layout e o modelo de eventos do Java, o que é essencial para aplicações de desktop.
